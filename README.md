@@ -1,6 +1,6 @@
 # Hello, I'm Guillaume
 
-<img src="https://github.com/GuillaumeBeBoop/readme/blob/main/gh-header-image-1.png" alt="banner guillaume">
+<img src="https://github.com/GuillaumeBeBoop/readme/blob/main/gh-header-image-1.png?raw=true" alt="banner guillaume">
 I'm a fullstack developer, beginner 3D designer and cat lover from Toulouse, France ! 
 
 
